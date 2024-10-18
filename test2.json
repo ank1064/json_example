@@ -1,0 +1,35 @@
+{
+    "properties": {
+        "artifactory.content-type": [
+            "test"
+        ],
+        "docker.label.cx-scan-id": [
+            "1234567"
+        ],
+        "docker.label.cxone-scan-id": [
+            "abc123-def456-xyz789"
+        ],
+        "docker.label.io.buildah.version": [
+            "0.0.0"
+        ],
+        "docker.manifest": [
+            "0.0.0"
+        ],
+        "docker.manifest.digest": [
+            "test"
+        ],
+        "docker.manifest.type": [
+            "test"
+        ],
+        "docker.repoName": [
+            "test"
+        ],
+        "oci.artifact.type": [
+            "test"
+        ],
+        "sha256": [
+            "test"
+        ]
+    },
+    "uri": "test"
+}
